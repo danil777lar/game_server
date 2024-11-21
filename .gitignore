@@ -1,9 +1,13 @@
+.docker-compose.yml.swp
+nginx/conf.d/.default.conf.swp
+
 nginx/html/index.html
-nginx/html/Build/
-nginx/html/TemplateData/
+nginx/html/games/
 
 nginx/logs/
 
 mysql/db/
+
+
 
 
