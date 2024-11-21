@@ -1,3 +1,9 @@
 nginx/html/index.html
 nginx/html/Build/
 nginx/html/TemplateData/
+
+nginx/logs/
+
+mysql/db/
+
+
