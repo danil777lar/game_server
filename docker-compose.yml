@@ -1,13 +1,13 @@
 version: '3'
 services:
-  tg_game:
-    container_name: tg_game
-    build: .
+  tgbot:
+    container_name: tgbot
+    build: ./tgbot
     restart: always
     ports:
       - "8000:8000"
     volumes:
-      - ./app:/app
+      - ./tgbot:/tgbot
     depends_on:
       - mysql
     environment:
