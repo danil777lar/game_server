@@ -1,6 +1,8 @@
 <?php
-    $config = array(
-        'db' => array(
+    $config = array
+    (
+        'db' => array
+        (
             'server' => 'host',
             'username' => 'root',
             'password' => 'password',
